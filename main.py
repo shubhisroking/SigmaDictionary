@@ -12,7 +12,7 @@ class SigmaDictionary(App):
     """A Textual app to look up word definitions using a dictionary API."""
 
     TITLE = "Sigma Dictionary"
-    SUB_TITLE = "Look up word definitions with ease(made for true rizzlers BTW)"
+    SUB_TITLE = "Look up word definitions with ease"
     API_URL = "https://api.dictionaryapi.dev/api/v2/entries/en/{}"
     
     ERROR_EMPTY_SEARCH = "Please enter a word to search."
